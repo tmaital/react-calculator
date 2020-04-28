@@ -1,6 +1,6 @@
 ## React Calculator
 
-<img src="Calculator-icon.png" width="60%" height="60%" />
+<img src="Calculator-icon.png" />
 A simple useful and elegant reactjs calculator.
 
 ## Try Using It:
