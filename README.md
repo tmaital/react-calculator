@@ -12,8 +12,8 @@ You're welcome to try out the app!<br />
 
 ## Authors
 
-Authors & Contributors:
-tmaital - [https://github.com/tmaital](https://github.com/tmaital).
+Authors & Contributors:<br />
+tmaital - [https://github.com/tmaital](https://github.com/tmaital).<br />
 
 
 ## Version History
