@@ -1,7 +1,7 @@
 ## React Calculator
 
 
-A simple useful and elegant reactjs calculator.
+A simple useful and elegant reactjs calculator.<br />
 <img src="Calculator-icon.png" />
 
 
