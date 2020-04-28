@@ -4,8 +4,9 @@ permalink: public/index.html
 
 ## React Calculator
 
-<img src="Calculator-icon.png"/>
+
 A simple useful and elegant reactjs calculator.
+<img src="Calculator-icon.png" />
 
 ## Try Using It:
 
