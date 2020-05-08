@@ -7,7 +7,7 @@ A simple useful and elegant reactjs calculator.<br />
 ## Try Using It:
 
 You're welcome to try out the app!<br />
-[React Calculator](https://ufdng.csb.app/).
+[React Calculator](https://codesandbox.io/s/react-calculator-ufdng).
 
 
 ## Authors
